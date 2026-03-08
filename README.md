@@ -8,10 +8,10 @@
 
 ### 👩‍💻 About Me
 
-I am a Mobile Application Developer with 2+ years of experience building high-performance, cross-platform applications using Flutter and React Native. I specialize in creating scalable, user-friendly mobile solutions with clean architecture and maintainable code practices.
+I am a Mobile Application Developer and SiteCore Developer with 2+ years of experience building high-performance, cross-platform applications using Flutter and React Native. I specialize in creating scalable, user-friendly mobile solutions with clean architecture and maintainable code practices.
 
 - 🔭 Currently working as a Mobile Application Developer at Escorts Kubota Limited
-- 📱 Experienced in Flutter, React Native, REST API Integration & State Management
+- 📱 Experienced in Flutter, React Native, Sitecore, REST API Integration & State Management
 - 🚀 Passionate about AI-powered applications and performance optimization
 - 💬 Ask me about Flutter, React Native, App Deployment & Mobile Architecture
 - 📫 Reach me at: [shristyjaiswal0725@gmail.com](mailto:shristyjaiswal0725@gmail.com)
